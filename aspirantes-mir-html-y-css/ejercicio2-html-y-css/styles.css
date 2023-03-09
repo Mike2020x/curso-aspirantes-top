@@ -22,7 +22,7 @@ select {
   border: none;
 }
 
-button {
+#submit {
   padding: 5px 15px;
   margin-left: 220px;
 }
